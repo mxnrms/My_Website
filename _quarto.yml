@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MR"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - portfolio.qmd
+      - href: MaxineRamos_Resume.pdf
+        text: CV
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+
+editor: visual
+

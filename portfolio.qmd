@@ -1,0 +1,7 @@
+---
+title: "Portfolio"
+---
+
+Some of the data science projects that I have completed include:
+
+-   [The Flow of Youth Experiencing Homelessness Between Shelter Systems and Permanent Housing During the Pandemic](https://github.com/mxnrms/Youth_Shelter_System_Flow.git)
